@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/background.jpg') no-repeat top center ;
+  background: url('images/background.jpg') no-repeat center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -85,8 +85,9 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: #efefef;
+  color: black;
+  font-weight: bold;
 }
 .card {
   margin: 30px;
